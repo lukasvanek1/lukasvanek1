@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on company projects and presonal developement in python and AI
+- 🌱 I’m currently learning python for AI
+- 👯 I’m looking to collaborate on python AI projects primarily in medicine, transportation, automation, education
+
 <!--
 **lukasvanek1/lukasvanek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
